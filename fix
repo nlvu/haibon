@@ -8,7 +8,7 @@
 </head>
 <body>
     <div id="banner">
-        <div class="banner_top">
+        <div class="banner_top"> 
             <div class="center">
                 <div class="info_web">
                     <span><img src="img/top1.png" alt="Địa chỉ">Địa chỉ: Số 90, ấp ông Lễ, Xã Bình Hiệp, Thị xã Kiến Tường, Long An </span><br>
